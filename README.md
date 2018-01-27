@@ -1,3 +1,5 @@
 # Hello-world
 practice
-this is child branch
+
+this is child bran
+This is my own git repository.
